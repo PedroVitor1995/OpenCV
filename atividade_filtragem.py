@@ -51,7 +51,7 @@ def filtro_gaussiano(imagem):
 
 
 def image(imagem):
-    filtro_gaussiano(imagem)
+    original(imagem)
 
 if __name__ == '__main__':
     image('imagem.jpg')
